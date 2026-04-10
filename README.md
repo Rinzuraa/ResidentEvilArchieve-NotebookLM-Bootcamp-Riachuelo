@@ -1,4 +1,4 @@
-# 🧟 Caderno Temático: A História de Resident Evil
+# Aprendizado de NotebookLM com a História de Resident Evil
 > **Projeto DIO Riachuelo - Cibersegurança — NotebookLM como Ferramenta de Aprendizagem Ativa**
 
 ---
