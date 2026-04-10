@@ -128,7 +128,8 @@ confirmados pelos materiais de origem.
 
 **💡 Aprendizado:** Especificar formato, escopo e critério de confiabilidade transforma completamente a qualidade da resposta.
 
-> 📸 *[Print do resultado no NotebookLM — adicionar aqui]*
+> <img width="1003" height="822" alt="image" src="https://github.com/user-attachments/assets/2060a190-6dba-45c7-a93d-afdae6bea2c5" />
+
 
 ---
 
@@ -155,7 +156,8 @@ afetados notáveis.
 
 **💡 Aprendizado:** Pedir formato de tabela com colunas definidas é uma das estratégias mais eficazes para conteúdo comparativo.
 
-> 📸 *[Print do resultado no NotebookLM — adicionar aqui]*
+> <img width="977" height="782" alt="image" src="https://github.com/user-attachments/assets/787c6136-77d8-4788-95d1-ade0d82094e6" />
+
 
 ---
 
@@ -173,7 +175,7 @@ perguntas sobre personagens, vírus, organizações e cronologia. Nível: interm
 
 **💡 Aprendizado:** Especificar nível de dificuldade e variedade temática melhora muito o resultado.
 
-> 📸 *[Print do resultado no NotebookLM — adicionar aqui]*
+> <img width="978" height="822" alt="image" src="https://github.com/user-attachments/assets/3a097978-98e1-4218-87e3-4e2c9a8b524c" />
 
 ---
 
@@ -231,70 +233,9 @@ Fundada em 1968 por Ozwell E. Spencer, Edward Ashford e James Marcus, a Umbrella
 
 #### 📖 Módulo 4: Personagens que me marcaram
 
-**Jill Valentine** — Co-protagonista de RE1 e protagonista de RE3: Nemesis, meu primeiro jogo. Sua luta pela sobrevivência em Raccoon City contra o Nemesis é uma das histórias mais intensas da franquia.
+**Leon .S. Kennedy** — Co-protagonista de RE2, protagonista de RE4, Co-protagonista de RE: Requiem e etc. Sua luta pela sobrevivência em Raccoon City sendo seu primeiro dia é uma das histórias mais intensas da franquia.
 
-**Albert Wesker** — O grande vilão da era clássica. Traidor da S.T.A.R.S. e agente duplo da Umbrella. Seu arco vai de RE1 até seu fim em RE5 — uma das construções de vilão mais bem feitas dos videogames.
-
----
-
-#### 📖 Módulo 5: A Crise Financeira, o RE7 e a Origem do Devil May Cry
-
-Este módulo cobre a parte mais fascinante dos bastidores da franquia: como ela quase morreu, como foi ressuscitada e como acidentalmente criou outra das maiores franquias da Capcom.
-
----
-
-##### 💸 O "Fracasso" do RE6 (2012)
-
-O RE6 é um caso clássico de expectativa versus realidade. A Capcom esperava vender 7 milhões de cópias — e o jogo vendeu cerca de 4,9 milhões no lançamento, bem abaixo da meta. A própria Capcom admitiu em relatório oficial que o jogo "perdeu o momentum após o lançamento e não cumpriu seu papel como motor de expansão de vendas". O impacto foi sério: a empresa cortou cerca de US$39 milhões das projeções de lucro do ano fiscal.
-
-Mas o problema era mais profundo do que números. Em 2012, a Capcom admitiu publicamente que considerava o mercado de survival horror pequeno demais para RE e redirecionou o jogo para o gênero de ação, tentando competir com Call of Duty. Deu errado dos dois lados: os fãs de horror odiaram, e os fãs de ação não abandonaram o CoD pelo RE.
-
-> **Curiosidade:** O RE6 eventualmente chegou a mais de 8 milhões de cópias ao longo dos anos — mas o estrago à reputação da franquia já estava feito.
-
----
-
-##### 🩸 O RE7 que salvou tudo (2017)
-
-Cinco anos depois do RE6, a Capcom apostou tudo em uma mudança radical: câmera em primeira pessoa, novo protagonista (Ethan Winters), ambientação claustrofóbica numa fazenda no Louisiana e retorno total ao horror. A aposta funcionou.
-
-Mais de **53% de todas as vendas históricas da franquia Resident Evil** vieram depois de 2017 — são 82 milhões de cópias vendidas após o lançamento do RE7. Até hoje, com quase 16 milhões de cópias vendidas, o RE7 continua vendendo mais de 1 milhão de unidades por ano, há 8 anos consecutivos — algo raríssimo na indústria.
-
-Mas o impacto foi além de RE: o sucesso do RE7 deu à Capcom a confiança criativa para lançar Monster Hunter World, os remakes de RE2, RE3 e RE4, e Devil May Cry 5 — iniciando um dos melhores períodos da empresa em toda a sua história.
-
-| Jogo | Vendas totais (2025) |
-|---|---|
-| RE2 Remake (2019) | 16,3 milhões |
-| RE5 (2009) | 16,1 milhões |
-| RE7 (2017) | 15,9 milhões |
-| RE6 (2012) | 15,2 milhões |
-| RE4 original (2005) | 15 milhões |
-| RE Village (2021) | 12,8 milhões |
-
----
-
-##### 🎮 Como o Resident Evil criou o Devil May Cry
-
-Um dos fatos mais surpreendentes dos bastidores da indústria: o Devil May Cry não surgiu do nada — ele nasceu de um protótipo descartado do Resident Evil 4. É comum confundir a ordem dos eventos, por isso vale detalhar como tudo aconteceu:
-
-**O que realmente aconteceu:**
-
-Em 1999, a Capcom pediu ao diretor **Hideki Kamiya** para criar o Resident Evil 4. Kamiya tinha uma visão radicalmente diferente: queria um jogo de ação estiloso e frenético, com o protagonista sendo **Tony Redgrave**, um humano com superpoderes obtidos por experimentos da Umbrella.
-
-O resultado era tecnicamente incrível, mas tinha um pequeno problema não parecia nada com Resident Evil. Shinji Mikami, produtor executivo, sentiu que o projeto havia se afastado demais das raízes de survival horror da franquia e convenceu Kamiya a transformá-lo em uma nova IP independente.
-
-Kamiya reescreveu a história, trocou os zumbis por demônios, se inspirou na Divina Comédia de Dante Alighieri e renomeou o protagonista de Tony para **Dante**. Assim nasceu Devil May Cry (2001).
-
-Enquanto isso, a Capcom recomeçou o desenvolvimento do RE4 do zero — passando por vários protótipos ao longo de anos — até chegar na versão final que conhecemos, lançada em 2005.
-
-**A linha do tempo correta:**
-```
-1999 — Protótipo do RE4 (diretor: Hideki Kamiya) → muito estiloso, pouco horror
-2001 — Protótipo vira Devil May Cry → nova franquia da Capcom
-2001–2004 — RE4 recomeça do zero com vários protótipos descartados
-2005 — RE4 final lançado no GameCube → muda o gênero de ação para sempre
-```
-
-> **Curiosidade extra:** O protagonista original do DMC, Tony Redgrave, tinha superpoderes explicados por biotecnologia da Umbrella, o Dante que conhecemos hoje poderia ter sido um personagem do universo RE!
+**Albert Wesker** — O grande vilão da era clássica. Traidor da S.T.A.R.S. e agente duplo da Umbrella. Seu arco vai de RE1 até seu fim em RE5. Um dos personagens mais estilosos e com construções de vilão mais bem feitas dos videogames.
 
 ---
 
@@ -363,7 +304,7 @@ em resposta ao resultado.
 
 ## 👤 Autor
 
-Feito com 🧟 e muito amor pela franquia para o desafio de projeto da DIO Riachuelo — Cibersegurança.
+Feito para o desafio de projeto da DIO Riachuelo — Cibersegurança.
 
 > *"Whatever it takes, I'll stop Umbrella."* — Chris Redfield
 
