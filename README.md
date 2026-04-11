@@ -304,7 +304,7 @@ em resposta ao resultado.
 
 ## 👤 Autor
 
-Feito para o desafio de projeto da DIO Riachuelo — Cibersegurança.
+Rodrigo OLiveira Vilalta
 
 > *"Whatever it takes, I'll stop Umbrella."* — Chris Redfield
 
